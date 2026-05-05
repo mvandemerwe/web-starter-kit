@@ -1,0 +1,10 @@
+{
+  "name": "web-starter-kit",
+  "version": "1.0.0",
+  "description": "A simple web starter kit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"no tests yet\""
+  },
+  "license": "MIT"
+}
